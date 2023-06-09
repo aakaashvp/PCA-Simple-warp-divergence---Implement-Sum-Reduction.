@@ -31,8 +31,8 @@ Atlast , free the host and device memory then reset the device and check for res
 
 ### Program:
 ```
-Developed By:Challa Sandeep
-Reg.No:212221240011
+Developed By: AAKAASH V P
+Reg.No:212220230001
 ```
 ```
 #include "common.h"
